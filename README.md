@@ -1,14 +1,14 @@
 # website-blockerr
-# A python script to block access to websites for a period of time
+## A python script to block access to websites for a period of time
 
-# How to use:
+## How to use:
 
-# To run this script in the background as a process:
+## To run this script in the background as a process:
 1. Change the python file extension to '.pyw'
 2. Run as Administrator and execute
-# :)
+### :)
 
-# To run this script as soon as your computer starts:
+## To run this script as soon as your computer starts:
 1. Change the python file extension to '.pyw'
 2. Search Task Scheduler
 3. Click 'Create Task'
@@ -23,4 +23,4 @@
 12. select OK 
 13. REBOOT YOUR SYSTEM 
 
-# ciao
+## ciao
